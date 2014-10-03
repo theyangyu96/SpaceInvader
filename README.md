@@ -1,16 +1,16 @@
-###<b>SpaceInvader</b>
+#<b>SpaceInvader</b>
 
 Created May 2011
 
 ============
 
-#<b>[Introduction]</b>
+#####<b>[Introduction]</b>
 
 Java game of space invader.
 
 
 
-#<b>[Instruction]</b>
+#####<b>[Instruction]</b>
 
 Compile and run driverFinal.java to start the game. 
 
@@ -20,10 +20,7 @@ Reset the game by hitting "esc" button in menu.
 
 
 
-
-
-
-#<b>[Notes]</b>
+#####<b>[Notes]</b>
 
 Arcade mode is currently not supported.
 
