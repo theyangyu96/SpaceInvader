@@ -1,5 +1,5 @@
 SpaceInvader
-[Created May 2011]
+-Created May 2011
 ============
 
 Java game of space invader
