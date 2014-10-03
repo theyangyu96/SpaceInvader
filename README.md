@@ -1,6 +1,6 @@
 ###<b>SpaceInvader</b>
 
-#-Created May 2011
+Created May 2011
 
 ============
 
